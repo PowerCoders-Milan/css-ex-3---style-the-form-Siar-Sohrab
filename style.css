@@ -1,1 +1,15 @@
-/* Use Selectors and attributes for the HTML design */
+.hr1 {
+    height:5px;
+    border-color: rgb(26, 25, 25);
+    background-color:rgb(19, 17, 17);
+    width: 10em;
+    padding-left: 10px;
+    margin: 15px 15px 15px 0;
+}
+.hr2 {
+    height:2px;
+    border-color: rgb(26, 25, 25);
+    background-color:rgb(19, 17, 17);
+    padding-left: 10px;
+    margin: 15px 15px 15px 0;
+}
